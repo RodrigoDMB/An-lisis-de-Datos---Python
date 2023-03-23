@@ -4,8 +4,8 @@
 
 ## Objetivo
 El objetivo del presente proyecto es realizar análisis profundos, manipulación, transformación y extracción de información de bases de datos (datasets) para responder preguntas a problemas reales. En este caso, se investiga el problema de la sobrepoblación mundial.
-Se generan diversos análisis y múltiples visualizaciones, desde diferentes ángulos, que nos permiten comunicar las conclusiones pertinentes sobre la naturaleza y comportamiento de la sobrepoblación, para tomar decisiones inteligentes basadas en los análisis y las conclusiones. 
-Adicionalmente, se aplican modelos de regresión y clasificación con Pandas, para dejar el camino listo hacia la aplicación de modelos de Machine Learning.
+Se generan diversos análisis y múltiples visualizaciones, desde diferentes ángulos, que nos permiten comunicar las conclusiones pertinentes sobre la naturaleza y comportamiento de la sobrepoblación, y así poder tomar decisiones inteligentes basadas en los análisis y las conclusiones. 
+Adicionalmente, se aplican modelos de regresión y clasificación con Pandas, con la finalidad de dejar el camino listo hacia la aplicación de modelos de Machine Learning.
 
 Este repositorio contiene el proyecto del Equipo 14.
 ### Integrantes
